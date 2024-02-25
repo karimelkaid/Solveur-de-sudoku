@@ -38,4 +38,4 @@ Répétez ces étapes pour tester les autres programmes en remplaçant `BackTrac
 
 Ce projet est placé dans le domaine public et est disponible sous la licence 0BSD, ce qui signifie que vous pouvez l'utiliser, le modifier et le distribuer sans aucune restriction et sans obligation de créditer l'auteur original.
 ---
-Pour toute question ou suggestion, n'hésitez pas à ouvrir une issue ou à nous contacter directement.
+Pour toute question ou suggestion, n'hésitez pas à ouvrir une issue ou à me contacter directement.
