@@ -29,8 +29,8 @@ Les grilles de sudoku sont représentées par des fichiers texte, nommés par ex
 Pour compiler et exécuter un programme de résolution de sudoku, suivez ces étapes :
 
 1. Placez-vous dans le répertoire contenant le programme à tester.
-2. Compilez le code source en utilisant Mono. Par exemple, pour compiler le fichier `BackTracking.cs`, utilisez la commande suivante : mcs BackTracking.cs
-3. Une fois la compilation réussie, exécutez le programme compilé avec la commande : mono BackTracking.exe
+2. Compilez le code source en utilisant Mono. Par exemple, pour compiler le fichier `BackTracking.cs`, utilisez la commande suivante : `mcs BackTracking.cs`
+3. Une fois la compilation réussie, exécutez le programme compilé avec la commande : `mono BackTracking.exe`
 
 Répétez ces étapes pour tester les autres programmes en remplaçant `BackTracking` par le nom approprié du fichier source ou du programme compilé.
 
